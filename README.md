@@ -26,6 +26,5 @@ A sleek and responsive web application that allows users to track the geographic
 ## Screenshots
 
 ![Desktop](https://github.com/user-attachments/assets/6761f267-5ecd-42fb-a78b-0601693be466)
-![Mobile 1](https://github.com/user-attachments/assets/73fbcf9a-7963-40a5-94c0-a86b8bb98d97)
-![Mobile 2](https://github.com/user-attachments/assets/28b0610e-c864-4fdf-bdf6-90b9f79a7292)
-
+![Mobile 1](https://github.com/user-attachments/assets/f8b540e7-2306-4990-a0b4-12e5f493b6b3)
+![Mobile 2](https://github.com/user-attachments/assets/0f6f3c34-ad9d-46a1-a0fe-8e925f2e70e2)
