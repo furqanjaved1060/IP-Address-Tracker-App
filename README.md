@@ -23,4 +23,9 @@ A sleek and responsive web application that allows users to track the geographic
 
 [Check it out on Netlify](https://ipaddresstracker.netlify.app/)
 
-## Screenshot
+## Screenshots
+
+![Desktop](https://github.com/user-attachments/assets/6761f267-5ecd-42fb-a78b-0601693be466)
+![Mobile 1](https://github.com/user-attachments/assets/73fbcf9a-7963-40a5-94c0-a86b8bb98d97)
+![Mobile 2](https://github.com/user-attachments/assets/28b0610e-c864-4fdf-bdf6-90b9f79a7292)
+
